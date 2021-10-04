@@ -1,0 +1,10 @@
+this is a test text file:
+
+git commands:
+
+git init / git init <dirname>
+git log
+git status
+git add => add files to staging dir
+ls -lrt => gives file names in working dir
+git commit -m "test message" - saves files to local repo (now working dir is clean)
