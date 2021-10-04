@@ -12,4 +12,8 @@ ls -la => gives all files in working dire including git files
 git diff => gives the differences in files in working dir and staging dir
 git diff --staged => give the differences in files in staging dir and local repo
 
+//git revert changes:
+
+
+
 added new text to modify a file
